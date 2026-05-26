@@ -8,7 +8,7 @@
 
 I'm a **Lead Backend Developer** based in Córdoba, Argentina. I have **+4 years of experience** in backend development and **1+ years leading development teams**. My main focus is on building scalable, maintainable, and efficient applications.
 
-I strongly believe in writing **clean, structured, and efficient code** by following software design principles like **DRY, SOLID, SOC, KISS, etc**. Whether it's working on cutting-edge projects or maintaining and improving legacy systems, I always aim to deliver **high-quality and future-proof solutions**.
+I strongly believe in writing **clean, structured, and efficient code** by following software design principles like **DRY & SOLID**. Whether it's working on cutting-edge projects or maintaining and improving legacy systems, I always aim to deliver **high-quality and future-proof solutions**.
 
 ## 🔥 What I Do
 
@@ -19,7 +19,6 @@ I strongly believe in writing **clean, structured, and efficient code** by follo
 
 ## 🛠 Tech Stack
 
-- **Languages & Frameworks:** PHP, Symfony, Laravel, JavaScript, jQuery
+- **Languages & Frameworks:** PHP, Symfony, Laravel, JavaScript, jQuery, Python
 - **Databases:** MySQL, PostgreSQL
 - **Tools & Platforms:** Docker, Apache, Nginx, Redis
-- **Principles & Best Practices:** DRY, SOLID, KISS, Clean Code
